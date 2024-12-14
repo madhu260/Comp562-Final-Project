@@ -17,5 +17,4 @@ The dataset used in this project is the Heart Failure Prediction Dataset sourced
 * scikit-learn
 * numpy
 * pandas
-* seaborn
 * scipy
